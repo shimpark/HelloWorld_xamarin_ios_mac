@@ -1,0 +1,35 @@
+# Version: 10.10.0.33 (d15-2: 3e5ac5ff)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/lib/mtouch/mtouch.exe \
+	/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
+	--sim \
+	/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/HelloWorld_ios.app \
+	--executable \
+	HelloWorld_ios \
+	--fastdev \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.3 \
+	--targetver \
+	10.3 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/bin/iPhoneSimulator/Debug/HelloWorld_ios.exe \

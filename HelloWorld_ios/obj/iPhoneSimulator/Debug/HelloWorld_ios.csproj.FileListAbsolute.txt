@@ -1,0 +1,9 @@
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/bin/iPhoneSimulator/Debug/HelloWorld_ios.exe
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/bin/iPhoneSimulator/Debug/HelloWorld_ios.pdb
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/HelloWorld_ios.csproj.CoreCompileInputs.cache
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/HelloWorld_ios.exe
+/Users/shimjaewoon/Projects/HelloWorld_ios/HelloWorld_ios/obj/iPhoneSimulator/Debug/HelloWorld_ios.pdb
