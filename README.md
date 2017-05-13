@@ -4,6 +4,7 @@ http://aspdotnet.tistory.com/1882
 
 visual studio for mac 툴을 이용하여 xamarin 의 iOS 구현하기
 
+₩₩₩csharp
 
 //submit 시 경고창 띄우기
 partial void BtnSubmit_TouchUpInside(UIButton sender)
@@ -22,3 +23,5 @@ partial void BtnSubmit_TouchUpInside(UIButton sender)
             // 경고창 보여주기
             PresentViewController(okAlertController, true, null);
         }
+
+```
